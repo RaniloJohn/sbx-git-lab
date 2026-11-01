@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "Hello from $(hostname)"
+echo "Hello again from $(hostname)"
