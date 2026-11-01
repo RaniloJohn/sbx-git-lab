@@ -1,2 +1,2 @@
-# Sandbox Git Lab
+# Rivan Sandbox (main)
 Owner: Rivan Student
